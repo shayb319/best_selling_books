@@ -88,7 +88,7 @@ Some book genres may not appear often on bestseller lists but could still genera
 The genre rankings remain largely consistent between our graph of 'Most Popular Book Genres' and 'Books Sold by Genre'. *Fiction*, *Children's Books*, *Thriller & Mystery*, and *Science Fiction & Fantasy* retained their original placements, while the remaining genres shifted by only one or two spots. 
 
 However, the gap between the top two genres, *Fiction* and *Children's Books*, is less pronounced in the sales graph. *Fiction* led with 38.5 million, while *Children's Books* followed closely with 33.8 million, a difference of just 5 million. This suggests that while *Children's Books* had fewer entries on the list, some individual titles were exceptionally successful. 
-~
+
 ### Which publishers have the most books on the list?
 
 To effectively answer this question, we can visualize the number of books contributed by each publisher using a bar graph. 
@@ -97,15 +97,11 @@ According to the data, Random House is the most dominant publisher, accounting f
 
 ### Which authors have the highest total sales?
 
-The top 100 best-seller book rankings are determined by the total volume sales of a book. Is the same true when looking at the total volume sales by an author, does their highest rank correlate with the total number of books they've sold?
-
-We'll look at the top performing authors in terms of total sales and how they compare to some of the other authors on the list, while also listing the peak rank that an author was able to obtain from a single book.
-
 In the graph above, the top 15 authors in terms of total book sales appear. There are 6 authors whose sales have totaled more than 5 million books. As highlighted in blue, they are J.K. Rowling, Dan Brown, E.L. James, Stephanie Meyer, Stieg Larsson, and Jamie Oliver. We can see that the difference in sales between J.K. Rowling and the runner up, Dan Brown, is close to 15 million, almost double the number of sales. 
 
-J.K. Rowling's success is undeniable, but this begs us to ask the question, was their large number of books sales due to a single book or multiple releases? Are other authors not recognized as much despite having high sales relative to the number of books on this list? 
+An interesting point to make is that the best-ranked books for each author are not always consistent with their total volume sales. For instance,  J.K. Rowling's highest-selling book was ranked number two, despite having the most sales, whereas Dan Brown's book holds the number one spot while having significantly fewer sales. Similarly, Alice Sebold and Mark Haddon placed at the bottom of the top 15 even though their highest-ranked books outperformed a majority of those on this list. Let's not forget that a majority of the top 15 books from the original dataset were not written by the authors presented in the graph above.
 
-Another interesting point to make is that the best ranks for each author do not 
+These observations raise a few questions. How can an author have such a high-ranking book yet still trail behind other authors in overall sales? Conversely, how can an author have such an overwhelming number of sales but not have the highest-ranked book? Was their success the result of a single well-performing book or several releases? Are other authors with fewer titles on the list undervalued, despite their high sales? 
 
 
 
